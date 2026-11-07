@@ -1,0 +1,7 @@
+Whisper model: OpenAI, MIT license. Weights converted by ggerganov/whisper.cpp.
+Source: https://huggingface.co/ggerganov/whisper.cpp
+Qwen2.5-0.5B-Instruct: Alibaba Cloud Qwen team, Apache License 2.0.
+Source: https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF
+whisper.cpp: MIT, https://github.com/ggml-org/whisper.cpp
+llama.cpp: MIT, https://github.com/ggml-org/llama.cpp
+See license text files in this assets directory. Model revisions and checksums are in config/models.lock.json.

@@ -1,0 +1,9 @@
+Проект находится локально в /Users/antiplib/neuro-stenographer
+
+Откройте папку src в Android Studio. Исходники, сторонние библиотеки и встроенные модели включены. SDK/NDK/CMake укажите через Android Studio SDK Manager; local.properties с путём к прежней папке Documents не перенесён.
+
+Последний APK: artifacts/neuro-stenographer-v8-aqua.apk
+Инструкция: README.md
+Kotlin: src/app/src/main/java/ru/nuclear/stenographer
+C++: src/nativeAsr/src/main/cpp и src/nativeLlm/src/main/cpp
+SQL: src/app/src/main/assets/schema.sql

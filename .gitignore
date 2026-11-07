@@ -1,0 +1,9 @@
+src/.gradle/
+src/local.properties
+**/build/
+**/.cxx/
+src/vendor/
+src/app/src/main/assets/models/*.bin
+src/app/src/main/assets/models/*.gguf
+artifacts/*.apk
+*.keystore

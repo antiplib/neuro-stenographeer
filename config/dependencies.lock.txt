@@ -1,0 +1,9 @@
+whisper.cpp v1.7.6 a8d002cfd879315632a579e73f0148d06959de36
+llama.cpp b5046 74d4f5b041ad837153b0e90fc864b8290e01d8d5
+Gradle 8.10.2
+AGP 8.7.3
+Kotlin 2.0.21
+Android compileSdk/targetSdk 35, minSdk 26
+NDK 27.2.12479018
+CMake 3.22.1
+ABI arm64-v8a
